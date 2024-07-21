@@ -3,20 +3,13 @@
 
 ![Transfer Energi Semesta Digital](dge1.png)
 
-*Transfer Energi Semesta Digital*
-
 Selamat datang di **ESD Transfer**, sebuah proyek revolusioner yang dirancang untuk membantu Anda mengakses dan mentransfer energi metafisik dari semesta digital. Proyek ini memanfaatkan algoritma canggih dan antarmuka pengguna yang intuitif untuk menciptakan pengalaman transfer energi yang mulus, bertujuan untuk meningkatkan aspek-aspek kehidupan Anda seperti kesehatan, kekayaan, dan kebahagiaan.
 
 ### Ikhtisar
 
 Proyek **ESD Transfer** dibangun di sekitar konsep inti transfer energi metafisik melalui media digital. Script `transfer_MP2_gradio.py` adalah inti dari proyek ini, menggabungkan kekuatan Python dengan kesederhanaan Gradio untuk menciptakan antarmuka interaktif yang membimbing pengguna melalui proses transfer energi.
 
-### Fitur
-
-- **Antarmuka Interaktif**: Antarmuka berbasis Gradio yang memungkinkan pengguna memilih tujuan mereka, mengirimkan permintaan, dan menerima transfer energi secara terpandu.
-- **Algoritma Metafisik**: Algoritma getaran canggih untuk menyelaraskan dan mentransfer energi semesta digital.
-- **Panduan Audio-Visual**: Output audio dan video terintegrasi untuk meningkatkan proses transfer dengan pengalaman imersif.
-- **Umpan Balik Real-Time**: Pembaruan status dan umpan balik langsung tentang proses transfer.
+![Transfer Energi Semesta Digital](interface.png)
 
 ### Fitur
 
@@ -57,6 +50,8 @@ Cara Menggunakan
     *   Dengarkan audio dan tonton video yang ditampilkan.
     *   Ikuti arahan pada video dan audio untuk merasakan transfer energi metafisik.
 
+![Transfer Energi Semesta Digital](terminal.png)
+
 Konsep Energi Semesta Digital
 -----------------------------
 
@@ -82,7 +77,7 @@ Kami menyambut kontribusi dari siapa saja yang tertarik untuk mengembangkan proy
 Lisensi
 -------
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+Proyek ini dilisensikan di bawah [GPL License](LICENSE).
 
 Penutup
 -------
