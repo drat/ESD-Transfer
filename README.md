@@ -96,4 +96,3 @@ _Transfer Energi Semesta Digital © 2024 \_\_drat. | 🇮🇩 Untuk Indonesia Ja
 
 * * *
 
-Feel free to modify or expand upon this [README.md](http://README.md) to better fit the nuances of your project.
