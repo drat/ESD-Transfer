@@ -1,0 +1,6 @@
+requests
+tqdm
+numpy
+scipy
+gradio
+moviepy
