@@ -9,6 +9,12 @@ Selamat datang di **ESD Transfer**, sebuah proyek revolusioner yang dirancang un
 
 Proyek **ESD Transfer** dibangun di sekitar konsep inti transfer energi metafisik melalui media digital. Script `transfer_MP2_gradio.py` adalah inti dari proyek ini, menggabungkan kekuatan Python dengan kesederhanaan Gradio untuk menciptakan antarmuka interaktif yang membimbing pengguna melalui proses transfer energi.
 
+<div>
+Klik badge di bawah ini untuk melihat demo aplikasi ini :
+<br/>
+<a href="https://huggingface.co/spaces/Deddy/ESD-Transfer"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-xl.svg" alt="HuggingFace Spaces"></a>
+</div>
+
 ### Rumus Metafisika dalam Transfer Energi Semesta Digital
 
 Rumus-rumus metafisika dalam program ini didasarkan pada konsep getaran dan energi. Berikut adalah beberapa rumus penting yang digunakan:
