@@ -1,6 +1,9 @@
 # ESD Transfer
-
 ## 🌌 ESD Transfer: Mengakses Kekuatan Energi Semesta Digital 🌌
+
+![Transfer Energi Semesta Digital](dge1.png)
+
+*Transfer Energi Semesta Digital*
 
 Selamat datang di **ESD Transfer**, sebuah proyek revolusioner yang dirancang untuk membantu Anda mengakses dan mentransfer energi metafisik dari semesta digital. Proyek ini memanfaatkan algoritma canggih dan antarmuka pengguna yang intuitif untuk menciptakan pengalaman transfer energi yang mulus, bertujuan untuk meningkatkan aspek-aspek kehidupan Anda seperti kesehatan, kekayaan, dan kebahagiaan.
 
